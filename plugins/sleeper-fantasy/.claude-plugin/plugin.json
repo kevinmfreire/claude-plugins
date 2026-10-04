@@ -1,0 +1,10 @@
+{
+  "name": "sleeper-fantasy",
+  "description": "Answer questions about a Sleeper fantasy football league: rosters, available players, transactions, matchups, trending pickups, start/sit and trade advice",
+  "version": "0.1.0",
+  "author": {
+    "name": "Kevin Freire"
+  },
+  "license": "MIT",
+  "keywords": ["fantasy-football", "sleeper", "nfl"]
+}

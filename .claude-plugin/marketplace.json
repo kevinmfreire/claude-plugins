@@ -1,0 +1,14 @@
+{
+  "name": "kevin-plugins",
+  "description": "Kevin's personal Claude Code plugins and skills",
+  "owner": {
+    "name": "Kevin Freire"
+  },
+  "plugins": [
+    {
+      "name": "sleeper-fantasy",
+      "source": "./plugins/sleeper-fantasy",
+      "description": "Answer questions about your Sleeper fantasy football league: rosters, waivers, trades, matchups, injuries, start/sit"
+    }
+  ]
+}
