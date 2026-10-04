@@ -6,7 +6,7 @@ Personal Claude Code plugins and skills, published as a plugin marketplace.
 
 ```
 /plugin marketplace add kevinmfreire/claude-plugins
-/plugin install <plugin-name>@kevin-plugins
+/plugin install <plugin-name>@kevinmfreire
 ```
 
 ## Plugins

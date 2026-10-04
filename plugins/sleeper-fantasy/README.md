@@ -6,7 +6,7 @@ A Claude Code plugin that answers questions about your [Sleeper](https://sleeper
 
 ```
 /plugin marketplace add kevinmfreire/claude-plugins
-/plugin install sleeper-fantasy@kevin-plugins
+/plugin install sleeper-fantasy@kevinmfreire
 ```
 
 ## Setup
