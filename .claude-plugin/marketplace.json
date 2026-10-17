@@ -9,6 +9,11 @@
       "name": "sleeper-fantasy",
       "source": "./plugins/sleeper-fantasy",
       "description": "Answer questions about your Sleeper fantasy football league: rosters, waivers, trades, matchups, injuries, start/sit"
+    },
+    {
+      "name": "yahoo-fantasy",
+      "source": "./plugins/yahoo-fantasy",
+      "description": "Yahoo Fantasy basketball draft prep: local draft board, rankings import, pick tracking and draft strategy"
     }
   ]
 }

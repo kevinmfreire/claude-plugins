@@ -14,6 +14,7 @@ Personal Claude Code plugins and skills, published as a plugin marketplace.
 | Plugin | Description |
 |---|---|
 | [sleeper-fantasy](plugins/sleeper-fantasy) | Questions about a Sleeper fantasy football league: rosters, waivers, trades, matchups, start/sit |
+| [yahoo-fantasy](plugins/yahoo-fantasy) | Yahoo Fantasy basketball draft prep: local draft board, rankings import, pick tracking |
 
 ## Layout
 

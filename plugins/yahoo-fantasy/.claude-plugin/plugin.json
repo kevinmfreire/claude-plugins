@@ -1,0 +1,10 @@
+{
+  "name": "yahoo-fantasy",
+  "description": "Draft prep and league help for Yahoo Fantasy basketball: a local draft board, rankings import, pick tracking and draft strategy",
+  "version": "0.1.0",
+  "author": {
+    "name": "Kevin Freire"
+  },
+  "license": "MIT",
+  "keywords": ["fantasy-basketball", "yahoo", "nba", "draft"]
+}
